@@ -43,7 +43,7 @@ Atleast 80% of all the resources & methods are observed to follow the default se
 ### Follow the steps given below
 
 1. Verify installation of Terraform & AWS CLI is successful
-2. Use this module & initialize Terraform using `terraform init` (refer [examples](./examples) for more help)
+2. Use this module & initialize Terraform using `terraform init` (refer [examples](https://github.com/aman-godara/terraform-aws-api-gateway-resources-methods/tree/main/examples) for more help)
 3. Enter your AWS access & secret key using `aws configure` command of AWS CLI
 4. Configure the module for default settings. Make sure to choose those settings as default which majority of your resources & methods are expected to follow (this step is done by DevOps engineer)
 5. Enter the resources & methods that you want to create (this step is done by Backend engineers)
